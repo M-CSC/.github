@@ -1,52 +1,80 @@
-# M-CSC – Mölle Cyber Services & Consulting
+<div align="center">
 
-**M-CSC** steht für **Mölle Cyber Services & Consulting** und unterstützt Unternehmen mit moderner, sicherer und praxisnaher IT. Unser Fokus liegt darauf, Technik nicht nur „am Laufen“ zu halten, sondern Unternehmen wirklich voranzubringen – verständlich, direkt und ohne unnötige Umwege.
+# M-CSC
 
-Gegründet wurde M-CSC 2023 in Bonn. Wir arbeiten regional für Bonn, den Rhein-Sieg-Kreis und Umgebung, unterstützen Kunden aber auch remote und projektbezogen darüber hinaus.
+### Mölle Cyber Services & Consulting
 
-## Was wir machen
+**IT-Security · KI & Automatisierung · Webentwicklung · Microsoft 365 · Linux & Infrastruktur**
 
-M-CSC bietet IT-Dienstleistungen und Consulting für kleine und mittelständische Unternehmen, Selbstständige und Organisationen, die zuverlässige technische Unterstützung suchen.
+Moderne IT-Dienstleistungen aus Bonn für Unternehmen, Selbstständige und Organisationen, die Technik nicht nur verwalten, sondern sinnvoll nutzen wollen.
 
-Unsere Schwerpunkte sind:
+[Website](https://m-csc.de) · [Kontakt](https://m-csc.de) · [GitHub](https://github.com/M-CSC)
 
-- **IT-Security**  
-  Analyse, Härtung und Absicherung produktiver IT-Umgebungen, Security-Baselines, Backup-Strategien und praxisnahe Maßnahmen zur Risikoreduzierung.
+</div>
 
-- **KI & Automatisierung**  
-  Entwicklung und Umsetzung von Lösungen, die wiederkehrende Prozesse automatisieren, Daten verarbeiten, Abläufe beschleunigen und Teams im Alltag messbar entlasten.
+---
 
-- **Webseiten & digitale Präsenz**  
-  Moderne, performante Webseiten mit klarer Struktur, professionellem Design, mobiler Optimierung und grundlegender SEO-Optimierung.
+## 🚀 Was ist M-CSC?
 
-- **Microsoft 365 & Entra**  
-  Einrichtung, Optimierung und Absicherung von Microsoft-365-Umgebungen, Exchange Online, Entra ID, Conditional Access, Geräteverwaltung und Zugriffskonzepten.
+**M-CSC** steht für **Mölle Cyber Services & Consulting**.
 
-- **Linux, Docker & Infrastruktur**  
-  Aufbau und Betreuung moderner Server-, Container- und Web-Infrastrukturen – von kleinen Setups bis zu produktiven Umgebungen.
+Wir unterstützen kleine und mittelständische Unternehmen mit moderner, sicherer und praxisnaher IT. Unser Ziel ist es, technische Lösungen zu bauen, die im Alltag wirklich helfen: verständlich, stabil, skalierbar und ohne unnötigen Overhead.
 
-- **Co-Managed IT & Outsourcing**  
-  Flexible Unterstützung für interne IT-Teams oder Unternehmen ohne eigene IT-Abteilung. Wir übernehmen Aufgaben dort, wo zusätzliche Expertise oder Entlastung gebraucht wird.
+Gegründet wurde M-CSC 2023 in Bonn. Wir arbeiten regional im Raum Bonn, Rhein-Sieg-Kreis und Umgebung, unterstützen Kunden aber auch remote und projektbezogen darüber hinaus.
 
-## Wie wir arbeiten
+---
 
-Unsere Zusammenarbeit ist bewusst klar und pragmatisch aufgebaut:
+## 🧩 Was wir machen
 
-1. **Analyse** – Wir verstehen Ziele, Systeme, Risiken und Engpässe.
-2. **Konzept** – Daraus entsteht eine sinnvolle, greifbare Lösung.
-3. **Umsetzung** – Die Lösung wird stabil, sauber und nachvollziehbar realisiert.
-4. **Abschluss & Optimierung** – Übergabe, Dokumentation und weitere Verbesserungen.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 IT-Security</h3>
+      <p>Absicherung produktiver IT-Umgebungen, Security-Baselines, Backup-Strategien, Systemhärtung und praxisnahe Maßnahmen zur Risikoreduzierung.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 KI & Automatisierung</h3>
+      <p>Individuelle Lösungen, die Daten verarbeiten, wiederkehrende Abläufe automatisieren und Teams im Alltag spürbar entlasten.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Webseiten & digitale Präsenz</h3>
+      <p>Moderne, performante Webseiten mit professionellem Design, mobiler Optimierung, klarer Struktur und grundlegender SEO-Optimierung.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Microsoft 365 & Entra</h3>
+      <p>Einrichtung, Optimierung und Absicherung von Microsoft 365, Exchange Online, Entra ID, Conditional Access, Geräteverwaltung und Zugriffskonzepten.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐧 Linux, Docker & Infrastruktur</h3>
+      <p>Aufbau und Betreuung moderner Server-, Container- und Web-Infrastrukturen – von schlanken Setups bis zu produktiven Umgebungen.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Co-Managed IT & Outsourcing</h3>
+      <p>Flexible Unterstützung für interne IT-Teams oder Unternehmen ohne eigene IT-Abteilung – genau dort, wo Expertise oder Entlastung gebraucht wird.</p>
+    </td>
+  </tr>
+</table>
 
-## Unsere Haltung
+---
 
-M-CSC steht für persönliche, pragmatische und zukunftsorientierte IT.
+## ⚡ Fokus
 
-- **Persönlich:** Ein direkter Ansprechpartner statt Hotline und Ticketnummer.
-- **Pragmatisch:** Technik soll entlasten – nicht komplizierter machen.
-- **Zukunftsorientiert:** Cloud, Security und sinnvoll eingesetzte KI sind zentrale Bausteine moderner IT.
+```text
+Secure by default.
+Automate where it makes sense.
+Build clean. Keep it practical.
+```
 
-## Kontakt
+---
 
-Mehr Informationen, Leistungen und Referenzen gibt es auf unserer Website:
+<div align="center">
+
+### Mehr über M-CSC
 
 **https://m-csc.de**
+
+</div>
